@@ -12,8 +12,3 @@ If you have the Conky Manager GUI it should appear as an option automatically.
 
 The sidebar on my Desktop
 ![Alt text](https://github.com/ThosV/conky/blob/master/imgs/conky_desktop.png?raw=true "Desktop")
-
-The sidebar itself
-
-![Alt text](https://github.com/ThosV/conky/blob/master/imgs/conky.png?raw=true "Sidebar")
-
