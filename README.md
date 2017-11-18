@@ -11,7 +11,7 @@ If you have the Conky Manager GUI it should appear as an option automatically.
 ## Images
 
 The sidebar itself
-[[https://github.com/ThosV/conky/blob/master/imgs/conky.png|alt=sidebar]]
+[https://github.com/ThosV/conky/blob/master/imgs/conky.png|alt=sidebar]
 
 On my Desktop
-[[https://github.com/ThosV/conky/blob/master/imgs/conky_desktop.png|alt=Desktop]]
+[https://github.com/ThosV/conky/blob/master/imgs/conky_desktop.png|alt=Desktop]
