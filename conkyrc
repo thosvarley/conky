@@ -20,7 +20,7 @@ own_window_argb_value 191
 own_window_colour 000000
 TEXT
 $hr$
-${font openlogos:size=16}${font Arial:size=16}${color #6495ed}THOS ${color Ivory}${font openlogos:size=16}VARLEY${font }
+${font openlogos:size=16}${font Arial:size=16}${color #6495ed}USR ${color Ivory}${font openlogos:size=16}NAME${font }
 $hr$
 ${font size=9}${color slate grey}SYSTEM $hr${color }${font }
 #
