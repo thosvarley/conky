@@ -1,14 +1,6 @@
-# conky
-Conky sidebar for keeping an eye on system behavior. 
+# Modular conky sidebar
+A modular conky sidebar for keeping an eye on system behavior. 
 
-Download the conkyrc file and move it into ~/.config/conky/conkyrc
-The sidebar can be activated with 'conky -c ~/.config/conky/conkyrc
+Each piece of the sidebar is defined in its own configuration file in the `configs` directory. You can change the order in the `buildconky.sh` script.
 
-To change the header (which now just says USR NAME) alter line 23 of the conkyrc file. 
-
-If you have the Conky Manager GUI it should appear as an option automatically. 
-
-## Images
-
-The sidebar on my Desktop
-![Alt text](https://github.com/ThosV/conky/blob/master/imgs/conky_desktop.png?raw=true "Desktop")
+To compile a new master `conky.conf`, run `./buildconky,sh`. To start it, run `./startconky.sh`.

@@ -1,0 +1,9 @@
+$hr
+${font openlogos:size=16}${color #6495ed}THOS.${color} VARLEY${font }
+$hr
+${font size=9}${color slate grey}SYSTEM $hr${color }${font }
+#
+Kernel: ${alignr} $kernel
+OS: ${alignr} ${exec lsb_release -ds}
+Uptime: ${alignr} $uptime
+Entropy: ${alignr} $entropy_perc%
