@@ -1,9 +1,9 @@
 ${font size=9}${color slate grey}Network $hr${color }${font }
 #
-Total Down $alignr ${totaldown wlp1s0}
-Total Up   $alignr ${totalup wlp1s0}
+Total Down $alignr ${totaldown ID}
+Total Up   $alignr ${totalup ID}
 
-Download ${alignr} ${downspeed wlp1s0}
-${downspeedgraph wlp1s0 10, 200}
-Upload ${alignr} ${upspeed wlp1s0}
-${upspeedgraph wlp1s0 10, 200}
+Download ${alignr} ${downspeed ID}
+${downspeedgraph ID 10, 200}
+Upload ${alignr} ${upspeed ID}
+${upspeedgraph ID 10, 200}
