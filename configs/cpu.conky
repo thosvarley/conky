@@ -6,7 +6,7 @@ Temperature: ${alignr}${acpitemp}°C
 
 ${font size=9}${color slate grey}Top CPU Tasks $hr${color }${font }
 #
-${color #6495ed}${top name 1}${alignr}${top cpu 1}%${color }
+${color #228B22}${top name 1}${alignr}${top cpu 1}%${color }
 ${top name 2}${alignr}${top cpu 2}%
 ${top name 3}${alignr}${top cpu 3}%
 ${top name 4}${alignr}${top cpu 4}%

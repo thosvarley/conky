@@ -1,5 +1,5 @@
 $hr
-${font openlogos:size=16}${color #6495ed}USER.${color} NAME${font }
+${font openlogos:size=16}${color #228B22}USER.${color} NAME${font }
 $hr
 ${font size=9}${color slate grey}SYSTEM $hr${color }${font }
 #
