@@ -1,0 +1,9 @@
+$hr
+${font openlogos:size=16}${color #PRIMARY_COLOR}USER${color} NAME${font }
+$hr
+${font size=9}${color #HEADER_COLOR}SYSTEM $hr${color }${font }
+#
+Kernel: ${alignr} $kernel
+OS: ${alignr} ${exec lsb_release -ds}
+Uptime: ${alignr} $uptime
+Entropy: ${alignr} $entropy_perc%

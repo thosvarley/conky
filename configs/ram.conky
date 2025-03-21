@@ -1,6 +1,0 @@
-${font size=9}${color slate grey}Top RAM Tasks  $hr${color }${font }
-#
-${color #228B22}${top_mem name 1}${alignr}${top_mem mem 1}%${color }
-${top_mem name 2}${alignr}${top_mem mem 2}%
-${top_mem name 3}${alignr}${top_mem mem 3}%
-${top_mem name 4}${alignr}${top_mem mem 4}%

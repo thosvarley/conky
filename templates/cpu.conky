@@ -1,0 +1,12 @@
+${font size=9}${color #HEADER_COLOR}CPU State $hr${color }${font }
+#
+Load: ${alignr}${cpu}%
+${cpubar cpu 00, 100}
+Temperature: ${alignr}${acpitemp}°C
+
+${font size=9}${color #HEADER_COLOR}Top CPU Tasks $hr${color }${font }
+#
+${color #PRIMARY_COLOR}${top name 1}${alignr}${top cpu 1}%${color }
+${top name 2}${alignr}${top cpu 2}%
+${top name 3}${alignr}${top cpu 3}%
+${top name 4}${alignr}${top cpu 4}%

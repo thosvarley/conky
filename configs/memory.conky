@@ -1,7 +1,0 @@
-${font size=9}${color slate grey}Memory Usage $hr${color }${font }
-#
-RAM ${alignr}$mem/$memmax
-${membar 6, 200}
-#
-Memory ${alignr}$fs_free_perc%
-${fs_bar 06, 200}

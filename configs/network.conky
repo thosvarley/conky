@@ -1,9 +1,0 @@
-${font size=9}${color slate grey}Network $hr${color }${font }
-#
-Total Down $alignr ${totaldown ID}
-Total Up   $alignr ${totalup ID}
-
-Download ${alignr} ${downspeed ID}
-${downspeedgraph ID 10, 200}
-Upload ${alignr} ${upspeed ID}
-${upspeedgraph ID 10, 200}
