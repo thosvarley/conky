@@ -12,6 +12,8 @@ This Conky can also sync its color scheme directly to your Desktop background. C
 
 The automatic desktop theme works by load in your Desktop background, and using K-means clustering to find major color features of the image, and then selects the most luminous one (for a brighter theme).  
 
+Every time you call ``python buildconky.py``, it will pull your Desktop and do the color matching. 
+
 ## Install
 The ``buildconky.py`` and ``runconky.sh`` assume that conky is running out of the ``~/.conky/`` directory. Clone this repo, and unpack everything in that directory and it should all work out of the box. If you just run ``./startconky.sh`` without first configuring and building a desired layout, it will automatically build the layout you see in the image below.  
 
