@@ -1,3 +1,7 @@
+# Modular Conky - now with colors!
+
+A fun script for keeping an eye on your system state - and now it'll match the color profile of your Desktop background image.
+
 ### Modular construction
 
 Each piece of the sidebar is defined in its own configuration file in the `templates` directory. You can change the order in the `buildconky.py` script.
